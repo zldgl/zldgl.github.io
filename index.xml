@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>坐牢格林blog</title>
-    <link>http://zldgl.github.io/index.html</link>
+    <link>http://localhost:1313/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 21 Jul 2024 06:16:55 +0800</lastBuildDate>
-    <atom:link href="http://zldgl.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Jul 2024 18:18:17 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于</title>
+      <link>http://localhost:1313/basics/index.html</link>
+      <pubDate>Sun, 21 Jul 2024 18:18:17 +0800</pubDate>
+      <guid>http://localhost:1313/basics/index.html</guid>
+      <description>介绍网站相关</description>
+    </item>
     <item>
       <title>大家好，我是坐牢的格林</title>
-      <link>http://zldgl.github.io/welcome/index.html</link>
+      <link>http://localhost:1313/welcome/index.html</link>
       <pubDate>Sun, 21 Jul 2024 06:16:55 +0800</pubDate>
-      <guid>http://zldgl.github.io/welcome/index.html</guid>
+      <guid>http://localhost:1313/welcome/index.html</guid>
       <description>使用hugo建立blog站点</description>
     </item>
   </channel>
