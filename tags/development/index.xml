@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Development :: Tag :: 坐牢格林blog</title>
+    <title>Development :: Tag :: 坐牢格林</title>
     <link>http://localhost:1313/tags/development/index.html</link>
     <description></description>
     <generator>Hugo</generator>
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/welcome/index.html</link>
       <pubDate>Sun, 21 Jul 2024 06:16:55 +0800</pubDate>
       <guid>http://localhost:1313/welcome/index.html</guid>
-      <description>使用hugo建立白嫖一个blog页面</description>
+      <description>使用hugo建立白嫖一个blog页面&#xA;不会添加花哨的设置&#xA;内容为兴趣相关的草稿箱</description>
     </item>
   </channel>
 </rss>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>关于 :: 坐牢格林blog</title>
+    <title>关于 :: 坐牢格林</title>
     <link>http://localhost:1313/basics/index.html</link>
     <description>介绍网站相关</description>
     <generator>Hugo</generator>
@@ -20,7 +20,7 @@
       <link>http://localhost:1313/basics/%E6%97%A5%E5%BF%97/index.html</link>
       <pubDate>Sun, 21 Jul 2024 18:18:17 +0800</pubDate>
       <guid>http://localhost:1313/basics/%E6%97%A5%E5%BF%97/index.html</guid>
-      <description>2024/7/22 字体&#xA;字体&#xA;字体&#xA;字体</description>
+      <description>2024/7/22&#xA;字体&#xA;字体&#xA;字体(怎么没有斜体）&#xA;字体&#xA;字体&#xA;添加了爱丽丝帅照</description>
     </item>
     <item>
       <title>网站</title>
